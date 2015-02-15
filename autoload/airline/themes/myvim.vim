@@ -97,6 +97,6 @@ if !get(g:, 'loaded_ctrlp', 0)
 endif
 let g:airline#themes#myvim#palette.ctrlp = airline#extensions#ctrlp#generate_color_map(
       \ [ '#8a8a8a' , '#585858' , 245 , 240  , ''     ],
-      \ [ '#eeeeee' , '#8a8a8a' , 255 , 245  , ''     ],
-      \ [ '#eeeeee' , '#005fff' , 255 , 27   , 'bold' ])
+      \ [ '#262626' , '#8a8a8a' , 235 , 245  , ''     ],
+      \ [ '#d0d0d0' , '#005fff' , 252 , 27   , 'bold' ])
 
